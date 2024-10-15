@@ -1,0 +1,8 @@
+name: sHideTags
+version: '${project.version}'
+main: org.suicidesq.shidetags.Main
+api-version: '1.21'
+authors: [ qqloses ]
+softdepend: [ PlaceholderAPI ]
+website: https://github.com/qqloses/sHideTags
+description: Change the player nickname display system.
