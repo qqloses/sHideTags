@@ -20,6 +20,7 @@
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠃
 ```
+
 ```If you have the TAB plugin installed, you need to change the string "invisible-nametags: false" in the plugin configuration so that it looks like this "invisible-nametags: true"```
 
 <kbd> ![image](https://i.imgur.com/7yFfiAt.png) </kbd>
