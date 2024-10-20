@@ -29,7 +29,7 @@ public class TitleManager {
             }
 
             Team team = player.getScoreboard().getEntryTeam(player.getName());
-            if (team != null && team.getName().equals("shidetags")) {
+            if (team != null && team.getName().equals("players")) {
                 message = PlaceholderAPI.setRelationalPlaceholders(player, target, message);
                 return message;
             }

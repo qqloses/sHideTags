@@ -26,7 +26,7 @@ public final class Main extends JavaPlugin {
         titleManager = new TitleManager();
 
         registerEventListeners();
-        teamManager.HideName();
+        teamManager.Init();
     }
 
     private boolean isPluginEnabled() {

@@ -9,6 +9,7 @@ public class JoinListener implements Listener {
 
     @EventHandler
     public void onJoin(PlayerJoinEvent event) {
-        Main.getTeamManager().hideName(event.getPlayer());
+        Main.getTeamManager().setInvisiblePlayerName(event.getPlayer());
+        Main.getTeamManager().setVisibleMobTag();
     }
 }
